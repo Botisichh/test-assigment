@@ -12,3 +12,4 @@ Storage is **transient (in-memory)** as allowed by the assignment. The solution 
 ## Endpoints
 - `GET /staff/:id/salary?date=YYYY-MM-DD`
 - `GET /staff/total-salary?date=YYYY-MM-DD`
+
